@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/1cb2e357be684bb988f81f5320156268/artifacts
+end_time: 1750051223291
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 1cb2e357be684bb988f81f5320156268
+run_name: carefree-perch-62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223281
+status: 3
+tags: []
+user_id: rishiraj

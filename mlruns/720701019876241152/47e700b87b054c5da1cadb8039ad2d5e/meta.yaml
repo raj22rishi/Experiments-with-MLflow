@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/47e700b87b054c5da1cadb8039ad2d5e/artifacts
+end_time: 1750051223387
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 47e700b87b054c5da1cadb8039ad2d5e
+run_name: delightful-snake-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223378
+status: 3
+tags: []
+user_id: rishiraj

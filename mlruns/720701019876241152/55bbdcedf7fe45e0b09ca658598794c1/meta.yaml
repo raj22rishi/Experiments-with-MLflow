@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/55bbdcedf7fe45e0b09ca658598794c1/artifacts
+end_time: 1750051223302
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 55bbdcedf7fe45e0b09ca658598794c1
+run_name: stylish-zebra-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223292
+status: 3
+tags: []
+user_id: rishiraj

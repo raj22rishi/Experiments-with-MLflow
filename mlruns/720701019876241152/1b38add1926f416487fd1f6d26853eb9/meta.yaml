@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/1b38add1926f416487fd1f6d26853eb9/artifacts
+end_time: 1750051227123
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 1b38add1926f416487fd1f6d26853eb9
+run_name: delicate-stoat-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051215892
+status: 3
+tags: []
+user_id: rishiraj

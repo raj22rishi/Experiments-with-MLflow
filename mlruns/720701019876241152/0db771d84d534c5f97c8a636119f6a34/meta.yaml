@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/0db771d84d534c5f97c8a636119f6a34/artifacts
+end_time: 1750051223366
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 0db771d84d534c5f97c8a636119f6a34
+run_name: abundant-tern-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223356
+status: 3
+tags: []
+user_id: rishiraj

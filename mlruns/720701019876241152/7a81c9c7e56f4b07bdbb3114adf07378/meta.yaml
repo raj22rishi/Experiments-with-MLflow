@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/7a81c9c7e56f4b07bdbb3114adf07378/artifacts
+end_time: 1750051223398
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 7a81c9c7e56f4b07bdbb3114adf07378
+run_name: selective-mouse-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223389
+status: 3
+tags: []
+user_id: rishiraj

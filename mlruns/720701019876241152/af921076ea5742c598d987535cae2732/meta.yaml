@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/af921076ea5742c598d987535cae2732/artifacts
+end_time: 1750051223344
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: af921076ea5742c598d987535cae2732
+run_name: fortunate-hawk-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223335
+status: 3
+tags: []
+user_id: rishiraj

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/5dabadc42d164954831de02b4bbf8c0b/artifacts
+end_time: 1750051223323
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 5dabadc42d164954831de02b4bbf8c0b
+run_name: bold-hen-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223314
+status: 3
+tags: []
+user_id: rishiraj

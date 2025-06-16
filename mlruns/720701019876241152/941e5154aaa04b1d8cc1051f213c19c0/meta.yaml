@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/941e5154aaa04b1d8cc1051f213c19c0/artifacts
+end_time: 1750051223355
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 941e5154aaa04b1d8cc1051f213c19c0
+run_name: clumsy-jay-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223346
+status: 3
+tags: []
+user_id: rishiraj

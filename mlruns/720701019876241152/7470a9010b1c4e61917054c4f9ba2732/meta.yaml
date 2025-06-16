@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/7470a9010b1c4e61917054c4f9ba2732/artifacts
+end_time: 1750051223376
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: 7470a9010b1c4e61917054c4f9ba2732
+run_name: amusing-shrike-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223367
+status: 3
+tags: []
+user_id: rishiraj

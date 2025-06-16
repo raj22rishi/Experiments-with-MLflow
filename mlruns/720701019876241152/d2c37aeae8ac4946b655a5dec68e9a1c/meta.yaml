@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rishiraj/MLops/MLFlow/Experiments-with-MLflow/mlruns/720701019876241152/d2c37aeae8ac4946b655a5dec68e9a1c/artifacts
+end_time: 1750051223312
+entry_point_name: ''
+experiment_id: '720701019876241152'
+lifecycle_stage: active
+run_id: d2c37aeae8ac4946b655a5dec68e9a1c
+run_name: worried-bug-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750051223303
+status: 3
+tags: []
+user_id: rishiraj
