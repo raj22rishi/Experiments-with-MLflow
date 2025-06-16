@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fdd0b7ac8e4e4a4497e4b4af4a8ead17/artifacts
+end_time: 1750000034892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdd0b7ac8e4e4a4497e4b4af4a8ead17
+run_name: enthused-shrike-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750000031164
+status: 3
+tags: []
+user_id: rishiraj

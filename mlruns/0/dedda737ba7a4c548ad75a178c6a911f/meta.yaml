@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dedda737ba7a4c548ad75a178c6a911f/artifacts
+end_time: 1749986164768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dedda737ba7a4c548ad75a178c6a911f
+run_name: fortunate-steed-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749986164742
+status: 3
+tags: []
+user_id: rishiraj

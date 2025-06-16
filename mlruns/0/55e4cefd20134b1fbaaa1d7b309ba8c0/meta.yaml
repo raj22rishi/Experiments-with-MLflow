@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/55e4cefd20134b1fbaaa1d7b309ba8c0/artifacts
+end_time: 1749985879304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55e4cefd20134b1fbaaa1d7b309ba8c0
+run_name: wistful-ram-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749985879285
+status: 3
+tags: []
+user_id: rishiraj
